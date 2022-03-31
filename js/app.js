@@ -1,7 +1,4 @@
-/**
- * 
- * Code fourni
- */
+
 const app = {
   // just a utility var to remember all the colors
   colors: ['red','green','blue','yellow'],
@@ -75,7 +72,6 @@ const app = {
     
   },
 
-  /** Fin du code fourni. Après, c'est à toi de jouer! */
 
   showMessage: function (message) {
     document.getElementById('message').style.display = 'block'
